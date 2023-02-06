@@ -1,0 +1,12 @@
+#drawing-panel {
+    width: fit-content;
+    height: fit-content;
+    border: 2px solid rgb(87, 87, 87);
+    display: flex;
+    flex-flow: column nowrap;
+
+    margin: auto;
+
+    margin-top: 3rem;
+    /* gap: 1px; */
+}

@@ -1,0 +1,11 @@
+
+.chrome-picker {
+    position: absolute;
+    right: -8rem;
+}
+
+.editor {
+    max-width: 800px;
+    position: relative;
+    margin: 0 auto;
+}
